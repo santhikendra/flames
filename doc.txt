@@ -1,0 +1,6 @@
+6 images maps
+pics folder
+a folder for each book of bible
+chapterno.jpg
+for eg: pics->genesis ->1.jpg, 2.jpg, 3.jpg.......
+pics->exodus-> 1.jpg, 2.jpg, 3.jpg.....
